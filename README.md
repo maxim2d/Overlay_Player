@@ -75,7 +75,9 @@
 - **Windows Forms**: Для создания пользовательского интерфейса.
 - **GDI+**: Для кастомной отрисовки элементов интерфейса.
 
-
+## 📊 Статистика
+[![GitHub Downloads](https://img.shields.io/github/downloads/maxim2d/Overlay_Player/total?style=for-the-badge)](https://github.com/maxim2d/Overlay_Player/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/maxim2d/Overlay_Player?style=for-the-badge)](https://github.com/maxim2d/Overlay_Player/stargazers)
 
 ---
 
