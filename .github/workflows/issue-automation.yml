@@ -15,5 +15,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '?? Спасибо за ваш Issue! Мы рассмотрим его в ближайшее время.'
+              body: 'рџ‘‹ РЎРїР°СЃРёР±Рѕ Р·Р° РІР°С€ Issue! РњС‹ СЂР°СЃСЃРјРѕС‚СЂРёРј РµРіРѕ РІ Р±Р»РёР¶Р°Р№С€РµРµ РІСЂРµРјСЏ.'
             })
