@@ -1,8 +1,4 @@
 
-ТГ КАНАЛ ДЛЯ ОБРАТНОЙ СВЯЗИ .
-[ ссылка тут](https://t.me/+Pv3PutNO1MswMjli)
-
-
 # 🎵 **Overlay Player - Универсальный медиа-контроллер**
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/maxim2d/Overlay_Player/total?style=for-the-badge)](https://github.com/maxim2d/Overlay_Player/releases)  
